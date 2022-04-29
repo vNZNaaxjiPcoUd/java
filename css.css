@@ -1,0 +1,26 @@
+
+html,
+body {
+	font: normal normal bold 16px/16px monospace, monospace, monospace;
+	padding: 0;
+	margin: 2em auto;
+	max-width: 95%;
+	color: rgb(120, 120, 120);
+	background-color: rgb(1, 1, 1);
+	letter-spacing: 0.1rem;
+	line-height: 1.2;
+	font-weight: lighter;
+	font-size: 4vmin;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+a,
+a.visited {
+	color: inherit;
+	text-decoration: none;
+}
+h1 {font-size: 13vmin; }
+h2 {font-size: 10vmin;}
+h3 {font-size: 8vmin;}
+
+
